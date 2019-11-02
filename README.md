@@ -142,7 +142,7 @@
 
 
 ## Battery Restoring System `android(Java)`
-<img alt="이미지" src="/brs/brs1.png" height="300"> 
+<img alt="이미지" src="/brs/brs.png" height="300"> 
 
 - 수명이 다한Battery(자동차나 공장에서 쓰이는 대용량Battery) 를 다시 복원시켜주는 시스템
 - 장비에 표시는 LCD의 UI작업을 안드로이드 OS기반으로 앱형태로 개발
