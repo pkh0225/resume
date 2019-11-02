@@ -89,7 +89,7 @@
 - 신세계모바일 상품권을 구입,충전,선물할 수 있고 신세계모바일 상품권을 등록하여 편리하게 사용할 수 있고 관리할 수 있는 앱
 - 프로젝트 전체 설계 및 개발
 
-## 잡앤알 개인용/기업용 - iOS(Object-C)
+## 잡앤알 개인용/기업용 `iOS(Object-C)`
 <img alt="이미지" src="/hnr/hnr1.jpg" height="280"> <img alt="이미지" src="/hnr/hnr2.jpg" height="280"> <img alt="이미지" src="/hnr/hnr3.jpg" height="280"> <img alt="이미지" src="/hnr/hnr4.jpg" height="280"> <img alt="이미지" src="/hnr/hnr5.jpg" height="280">
 - 이력서를 등록하여 기업에 등록된 프로젝트를 검색하고 지원할 수 있으며 내가 지원한 프로젝트를 한눈에 볼수 있고 기업담당자와 채팅도 할수 있어 입사지원을 도와주는 앱
 - 프로젝트 전체 설계 및 개발
@@ -109,3 +109,15 @@
 <img alt="이미지" src="/nugawa/nugawa1.jpg" height="300"> <img alt="이미지" src="/nugawa/nugawa2.jpg" height="300"> <img alt="이미지" src="/nugawa/nugawa3.jpg" height="300"> <img alt="이미지" src="/nugawa/nugawa4.jpg" height="300">
 - 온/오프라인 모임과 행사를 좀 더 쉽게 진행 할 수 있도록 해주는 앱(지금의 밴드와 비슷한앱)
 - 프로젝트 전체 설계 및 개발
+
+## Polltalk `iOS(Object-C)`
+<img alt="이미지" src="/Polltalk/Polltalk1.png" height="300"> <img alt="이미지" src="/Polltalk/Polltalk2.png" height="300"> <img alt="이미지" src="/Polltalk/Polltalk3.png" height="300"> <img alt="이미지" src="/Polltalk/Polltalk4.png" height="300">
+- SNS를 통해 투표를 만들고 참여 할 수 있는 앱
+- 실시간 투표 결과와 집계표 그리고 댓글을 이용한 사용자 의견을 주고 받을 수 있는 SNS앱
+- 프로젝트 전체 설계 및 개발
+
+
+
+
+
+
