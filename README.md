@@ -22,11 +22,11 @@
 - 엘르쇼핑몰 iPhone 개발
 - WoodWick 광고iPhone 개발 
 
-### 주식회사솔루터스 (2014.03  2014.11) `iOS(Object-C), andriod(Java`
+### 주식회사솔루터스 (2014.03  2014.11) `iOS(Object-C), andriod(Java)`
 - 삼성 ChatON (iPhone 개발)
 - Qiqip (안드로이드 개발)
 
-### (주)주식회사소프트트레인 (2012.05 ~ 2014.03) `iOS(Object-C`
+### (주)주식회사소프트트레인 (2012.05 ~ 2014.03) `iOS(Object-C)`
 - 잡앤알기업용 iPhone 개발
 - 잡앤알 개인용 iPhone 개발
 - mHidoc 개발 iPhone 개발
@@ -36,7 +36,7 @@
 - 누가와 iPhone 개발
 - 신세계 기프트 iPhone 개발 
 
-### (주)스페이스링크 (2010.08 ~ 2011.09.10) `Windows(Delphi), iOS(Object-C`
+### (주)스페이스링크 (2010.08 ~ 2011.09.10) `Windows(Delphi), iOS(Object-C)`
 - CMS 개발 및 유지보수(Delphi)
 - 극동기상연구소 미어캣 드라이버개발 및 추가기능개발(Delphi)
 - 위성장비 RS232드라이버개발 및 추가기능개발
@@ -44,7 +44,7 @@
 - 장풍 앱(iPhone) 개발
 - Battery Restoring System UI개발(Android)
 
-### (주)모빌탑(필러지시스템) (2007.11 ~ 2010.02)  `Windows(Delphi`
+### (주)모빌탑(필러지시스템) (2007.11 ~ 2010.02)  `Windows(Delphi)`
 - LG텔레콤 MusicOn & Mobile Manager1 개발 및 운영(Delphi)
 - LG텔레콤 MusicOn & Mobile Manager2 개발 및 운영(Delphi)
 - UI, PIMS, DRM, 통신프레임워크 개발
@@ -54,7 +54,7 @@
 - SMS Application 개발
 
 
-### (주)네오미디어 (2006.08 ~ 2007.07)  `Windows(Delphi, C++, Oracle`
+### (주)네오미디어 (2006.08 ~ 2007.07)  `Windows(Delphi, C++, Oracle)`
 - 교통방송 TBS DMB PAD SERVER 개발(Delphi)
 - KBS 오디오 제작 솔루션(DMB버젼) 스케줄러 개발(Delphi)
 - TU미디어 인터넷 인코더 개발(Delphi)
@@ -63,44 +63,44 @@
 
 
 
-# 주요 프로젝트 상세
-### SSG 쇼핑몰 `iOS(Object-C, Swift)`
+# * 주요 프로젝트 상세 *
+## SSG 쇼핑몰 `iOS(Object-C, Swift)`
 <img alt="이미지" src="/ssg/ssg1.png" height="300"> <img alt="이미지" src="/ssg/ssg2.png" height="300"> <img alt="이미지" src="/ssg/ssg3.png" height="300">
 - Object-C에서 Swift로 프로젝트 리뉴얼 리더로서 설계 및 개발 
 - 다수의 UI 및 기능 개발(쓱닷, 검색, 상품유닛, 채팅) 
 - 다수의 공통 모듈 개발 
 
-### SHOP@쇼핑몰 `iOS(Object-C)`
+## SHOP@쇼핑몰 `iOS(Object-C)`
 <img alt="이미지" src="/ssg/shap1.png" height="300"> <img alt="이미지" src="/ssg/shap2.png" height="300"> <img alt="이미지" src="/ssg/shap3.png" height="300">
 - 프로젝트 전체 설계 및 개발
 
-### Qiqip `andriod(Java)`
+## Qiqip `andriod(Java)`
 <img alt="이미지" src="/Qiqip/Qiqip1.jpg" height="300"> <img alt="이미지" src="/Qiqip/Qiqip2.jpg" height="300"> <img alt="이미지" src="/Qiqip/Qiqip3.jpg" height="300"> <img alt="이미지" src="/Qiqip/Qiqip4.jpg" height="300"> <img alt="이미지" src="/Qiqip/Qiqip5.jpg" height="300">
 - Call log 관리, 주소록 관리, 채팅 메신져, 검색서비스
 - 전체 DB및 구조 설계, 주소록 관리, 디바이스 – 서버 데이타 Sync
 
-### 삼성 ChatON `iOS(Object-C)`
+## 삼성 ChatON `iOS(Object-C)`
 <img alt="이미지" src="/ChatON/ChatON1.png" height="300"> <img alt="이미지" src="/ChatON/ChatON2.png" height="300">
 - 채팅 메신져, 소셜네트워킹
 - 카카오 스토리 같은 소셜네트워킹 부분 신규 기능 추가 및 유지보수
 
-### 신세계기프트 `iOS(Object-C)`
+## 신세계기프트 `iOS(Object-C)`
 <img alt="이미지" src="/sg/sg1.png" height="300"> <img alt="이미지" src="/sg/sg2.png" height="300"> <img alt="이미지" src="/sg/sg3.png" height="300"> <img alt="이미지" src="/sg/sg4.png" height="300">
 - 신세계모바일 상품권을 구입,충전,선물할 수 있고 신세계모바일 상품권을 등록하여 편리하게 사용할 수 있고 관리할 수 있는 앱
 - 프로젝트 전체 설계 및 개발
 
-### 잡앤알 개인용/기업용 - iOS(Object-C)
+## 잡앤알 개인용/기업용 - iOS(Object-C)
 <img alt="이미지" src="/hnr/hnr1.jpg" height="280"> <img alt="이미지" src="/hnr/hnr2.jpg" height="280"> <img alt="이미지" src="/hnr/hnr3.jpg" height="280"> <img alt="이미지" src="/hnr/hnr4.jpg" height="280"> <img alt="이미지" src="/hnr/hnr5.jpg" height="280">
 - 이력서를 등록하여 기업에 등록된 프로젝트를 검색하고 지원할 수 있으며 내가 지원한 프로젝트를 한눈에 볼수 있고 기업담당자와 채팅도 할수 있어 입사지원을 도와주는 앱
 - 프로젝트 전체 설계 및 개발
 
-### mHidoc `iOS(Object-C)`
+## mHidoc `iOS(Object-C)`
 <img alt="이미지" src="/mHidoc/mHidoc1.jpg" height="300"> <img alt="이미지" src="/mHidoc/mHidoc2.jpg" height="300"> <img alt="이미지" src="/mHidoc/mHidoc3.jpg" height="300"> <img alt="이미지" src="/mHidoc/mHidoc4.jpg" height="300">
 - 대웅제약에서 제공하는 의사와 환자를 연결 해주는 앱
 - 원하는 의사 찾기, 예약 하기, 의사와 채팅, 병원 정보, 건강관련 뉴스제공 등
 - 프로젝트 전체 설계 및 개발
 
-### 이마트 쇼핑몰HD(ipad) `iOS(Object-C)`
+## 이마트 쇼핑몰HD(ipad) `iOS(Object-C)`
 <img alt="이미지" src="/eMartHD/eMartHD1.png" height="300"> <img alt="이미지" src="/eMartHD/eMartHD2.png" height="300"> <img alt="이미지" src="/eMartHD/eMartHD3.png" height="300">
 - PC용 이마트 쇼핑몰을 iPad에서도 똑같이 사용할 수 있도록 해주는쇼핑앱
 - 프로젝트 전체 설계 및 개발
