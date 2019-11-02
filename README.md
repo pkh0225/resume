@@ -182,7 +182,6 @@
 ### MusicOn & Mobile Manager1 `Window(Delphi)`
 <img alt="이미지" src="/MusicOn/MusicOn1.jpg" height="300"> <img alt="이미지" src="/MusicOn/MusicOn2.jpg" height="300">
 
-- MusicOn & Mobile Manager1의 차기 버전
 - 현 iTunes와 비슷한 프로그램
 - UI, PIMS, DRM 개발
 - Phone Book, Schedule, SMS 통합된 Manager Application
