@@ -7,12 +7,12 @@
 * Github : https://github.com/pkh0225
 
 # 학력
-* 순천대학교 생물학과/컴퓨터과학(복수전공) (1998.03-2005.02)
+* 순천대학교 생물학과/컴퓨터과학(복수전공) 졸업 (1998.03-2005.02)
 * 한영고등학교 졸업 (1998.03)
 
 # 경력
 ### 신세계(SSG.COM) (2015.04 ~ 재직중) `iOS(Object-C, Swift)`
-- SSG, 이미트, 신세계, 샤벳 쇼핑몰앱 운영 및 개발 
+- SSG, 이마트, 신세계, 샤벳 쇼핑몰앱 운영 및 개발 
 
 ### 프리랜서 ***iOS(Object-C, Swift)***
 - CJ CGV 영화앱 iPhone 개발 
@@ -47,12 +47,6 @@
 ### (주)모빌탑(필러지시스템) (2007.11 ~ 2010.02)  `Windows(Delphi)`
 - LG텔레콤 MusicOn & Mobile Manager1 개발 및 운영(Delphi)
 - LG텔레콤 MusicOn & Mobile Manager2 개발 및 운영(Delphi)
-- UI, PIMS, DRM, 통신프레임워크 개발
-- Mobile Manager2 Application 개발
-- Phone Book Application 개발
-- Schedule Application 개발
-- SMS Application 개발
-
 
 ### (주)네오미디어 (2006.08 ~ 2007.07)  `Windows(Delphi, C++, Oracle)`
 - 교통방송 TBS DMB PAD SERVER 개발(Delphi)
