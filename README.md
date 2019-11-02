@@ -210,3 +210,9 @@
 
 - 오디오DMB 방송시 이미지와 텍스트를 보낼 때 컨텐츠를 관리하고 스케줄을 만드는 프로그램
 - TimeLineBar Module
+
+### 홈쇼핑 모니터링 시스템 개발 `Window(Delphi, Oracle)`
+<img alt="이미지" src="/daso/daso1.png" height="300"> <img alt="이미지" src="/daso/daso2.png" height="300">
+
+- 홈쇼핑 3사에 제공된 홈쇼핑용 오디오 솔루션을 유지보수
+- 홈쇼핑 3개사 모두 유지보수와 신규기능 추가건 모두 담당
