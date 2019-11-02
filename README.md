@@ -162,6 +162,12 @@
 - 위성장비 RS232 드라이버개발 및 추가기능개발
 
 
+### KT CMS(Customer Manager System) `Window(Delphi, MSSQL)`
+<img alt="이미지" src="/cms/cms1.jpg" height="300"> 
+
+- 위성 방송 장비들의 통합적이고 효율적으로 관리 하기 위한 프로그램
+- 프로젝트 전체 설계 및 개발
+
 
 
 
