@@ -1,6 +1,6 @@
 # 소개
 
-<img alt="깃헙 프로필 사진" src="https://github.com/pkh0225/resume/blob/master/%EB%82%B4%EC%82%AC%EC%A7%84.jpg" width="200">
+<img alt="깃헙 프로필 사진" src="%EB%82%B4%EC%82%AC%EC%A7%84.jpg" width="200">
 
 * 박길호
 * Email : pkh0225@gmail.com
@@ -8,13 +8,9 @@
 
 
 # 경력
-### 신세계 (2015.04 ~ 재직중)
+### 신세계(SSG.COM) (2015.04 ~ 재직중)
 * ***iOS(Object-C, Swift)***
 - SSG, 이미트, 신세계, 샤벳 쇼핑몰앱 운영 및 개발 
-- Object-C에서 Swift로 프로젝트 리뉴얼 리더로서 설계 및 개발 
-- 검색 및 채팅 개발 
-- 다수의 공통 모듈 개발 
-- 쓱닷 UI 개발
 
 ### 프리랜서
 * ***iOS(Object-C, Swift)***
@@ -48,7 +44,7 @@
 - 위성장비 RS232드라이버개발 및 추가기능개발
 - 천문연구원 아르고시스템 설계(UML)
 - 장풍 앱(iPhone) 개발
-- * Battery Restoring System UI개발(Android)
+- Battery Restoring System UI개발(Android)
 
 ### (주)모빌탑(필러지시스템) (2007.11 ~ 2010.02)  
 * ***Windows(Delphi)***
@@ -72,10 +68,14 @@
 
 
 # 프로젝트 상세
-    
-    
-    
-    
+### SSG 쇼핑몰(iOS(Object-C, Swift))
+<img alt="이미지" src="/ssg/ssg1.png" height="400"> <img alt="이미지" src="/ssg/ssg2.png" height="400"> <img alt="이미지" src="/ssg/ssg3.png" height="400">
+- Object-C에서 Swift로 프로젝트 리뉴얼 리더로서 설계 및 개발 
+- 다수의 UI 및 기능 개발(쓱닷, 검색, 상품유닛, 채팅) 
+- 다수의 공통 모듈 개발 
+
+
+
 
 
 # 학력
