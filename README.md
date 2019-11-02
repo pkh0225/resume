@@ -168,6 +168,18 @@
 - 위성 방송 장비들의 통합적이고 효율적으로 관리 하기 위한 프로그램
 - 프로젝트 전체 설계 및 개발
 
+### MusicOn & Mobile Manager2 `Window(Delphi)`
+<img alt="이미지" src="/MusicOn2/MusicOn21.jpg" height="300"> <img alt="이미지" src="/MusicOn2/MusicOn22.jpg" height="300">
+
+- MusicOn & Mobile Manager1의 차기 버전
+- 현 iTunes와 비슷한 앱
+- UI, PIMS, DRM, 통신프레임워크 개발
+- Mobile Manager2 Application 개발
+- Phone Book Application 개발
+- Shedule Application 개발
+- SMS Application 개발
+
+
 
 
 
