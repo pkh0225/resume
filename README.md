@@ -199,3 +199,9 @@
 - VCR를 원격제어하여 원하는 시간부터 시간까지를 자동으로 인코딩해주는 프로그램
 - Window Media Encoder 와 VCR 원격제어 Application 개발
 
+### 홈쇼핑 모니터링 시스템 개발 `Window(Delphi, Oracle )`
+<img alt="이미지" src="/hm/hm1.png" height="300"> <img alt="이미지" src="/hm/hm2.png" height="300">
+
+- 현대, CJ, GS, 우리 홈쇼핑 4개의 방송을 24시간 스케줄표대로 자동으로 인코딩하여 스토리지에 저장하고 웹에서 검색하여 각 홈쇼핑방송사의 정보를 한눈에 볼 수 있도록 하여 벤치마킹에 필요한 정보를 수정하는 프로그램
+- Window Media Encoder 와 Scheduler 개발
+
