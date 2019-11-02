@@ -101,7 +101,11 @@
 - 이력서를 등록하여 기업에 등록된 프로젝트를 검색하고 지원할 수 있으며 내가 지원한 프로젝트를 한눈에 볼수 있고 기업담당자와 채팅도 할수 있어 입사지원을 도와주는 앱
 - 프로젝트 전체 설계 및 개발
 
-
+### mHidoc - iOS(Object-C)
+<img alt="이미지" src="/mHidoc/mHidoc1.jpg" height="300"> <img alt="이미지" src="/mHidoc/mHidoc2.jpg" height="300"> <img alt="이미지" src="/mHidoc/mHidoc3.jpg" height="300"> <img alt="이미지" src="/mHidoc/mHidoc4.jpg" height="300">
+- 대웅제약에서 제공하는 의사와 환자를 연결 해주는 앱
+- 원하는 의사 찾기, 예약 하기, 의사와 채팅, 병원 정보, 건강관련 뉴스제공 등
+- 프로젝트 전체 설계 및 개발
 
 
 
