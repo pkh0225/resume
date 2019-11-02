@@ -6,6 +6,9 @@
 * Email : pkh0225@gmail.com
 * Github : https://github.com/pkh0225
 
+# 학력
+* 순천대학교 생물학과/컴퓨터과학(복수전공) (1998.03-2005.02)
+* 한영고등학교 졸업 (1998.03)
 
 # 경력
 ### 신세계(SSG.COM) (2015.04 ~ 재직중)
@@ -67,7 +70,7 @@
 
 
 
-# 프로젝트 상세
+# 주요 프로젝트 상세
 ### SSG 쇼핑몰 - iOS(Object-C, Swift)
 <img alt="이미지" src="/ssg/ssg1.png" height="300"> <img alt="이미지" src="/ssg/ssg2.png" height="300"> <img alt="이미지" src="/ssg/ssg3.png" height="300">
 - Object-C에서 Swift로 프로젝트 리뉴얼 리더로서 설계 및 개발 
@@ -88,11 +91,17 @@
 - 채팅 메신져, 소셜네트워킹
 - 카카오 스토리 같은 소셜네트워킹 부분 신규 기능 추가 및 유지보수
 
+### 신세계기프트 - iOS(Object-C)
+<img alt="이미지" src="/sg/sg1.png" height="300"> <img alt="이미지" src="/sg/sg2.png" height="300"> <img alt="이미지" src="/sg/sg3.png" height="300"> <img alt="이미지" src="/sg/sg4.png" height="300">
+- 신세계모바일 상품권을 구입,충전,선물할 수 있고 신세계모바일 상품권을 등록하여 편리하게 사용할 수 있고 관리할 수 있는 앱
+- 프로젝트 전체 설계 및 개발
+
+### 잡앤알 개인용/기업용 - iOS(Object-C)
+<img alt="이미지" src="/hnr/hnr1.jpg" height="280"> <img alt="이미지" src="/hnr/hnr2.jpg" height="280"> <img alt="이미지" src="/hnr/hnr3.jpg" height="280"> <img alt="이미지" src="/hnr/hnr4.jpg" height="280"> <img alt="이미지" src="/hnr/hnr5.jpg" height="280">
+- 이력서를 등록하여 기업에 등록된 프로젝트를 검색하고 지원할 수 있으며 내가 지원한 프로젝트를 한눈에 볼수 있고 기업담당자와 채팅도 할수 있어 입사지원을 도와주는 앱
+- 프로젝트 전체 설계 및 개발
 
 
 
 
 
-# 학력
-* 순천대학교 생물학과/컴퓨터과학(복수전공) (1998.03-2005.02)
-* 한영고등학교 졸업 (1998.03)
