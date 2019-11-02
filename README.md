@@ -117,12 +117,14 @@
 - 프로젝트 전체 설계 및 개발
 
 ## POPCamera `iOS(Object-C)`
-<img alt="이미지" src="/POPCamera/POPCamera1.png" height="300">
+<img alt="이미지" src="/POPCamera/POPCamera1.png" height="300"> 
+
 - 스마트폰으로 촬영한 사진이나 동영상 파일을 손쉽게 저장하고 원하는 홈페이지나 채널에 손쉽게 연동할 수 있는 앱
 - 프로젝트 전체 설계 및 개발
 
 ## 동나미 `iOS(Object-C)`
-<img alt="이미지" src="/dong/dong1.png" height="300">
+<img alt="이미지" src="/dong/dong1.png" height="300"> 
+
 - 경남, 부산, 울산의 관광정보를 알려주고 지역정보 기만의 SNS서비스
 - 서버와통신하는 통신단 (XML, JSON)
 - 다음지도 Open API 연동
