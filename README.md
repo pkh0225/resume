@@ -23,8 +23,8 @@
 
 ### 주식회사솔루터스 (2014.03  2014.11)    
 * ***iOS(Object-C), andriod(Java)***
-- 삼성 ChatON (iPhone 개발) - 카카오 스토리 같은 소셜네트워킹 부분 신규 기능 추가 및 유지보수
-- Qiqip (안드로이드 개발) - 전체 DB및 구조 설계, 주소록 관리, 디바이스 ? 서버 데이타 Sync
+- 삼성 ChatON (iPhone 개발)
+- Qiqip (안드로이드 개발)
 
 ### (주)주식회사소프트트레인 (2012.05 ~ 2014.03)  
 * ***iOS(Object-C)***
@@ -68,23 +68,25 @@
 
 
 # 프로젝트 상세
-### SSG 쇼핑몰(iOS(Object-C, Swift))
+### SSG 쇼핑몰 - iOS(Object-C, Swift)
 <img alt="이미지" src="/ssg/ssg1.png" height="300"> <img alt="이미지" src="/ssg/ssg2.png" height="300"> <img alt="이미지" src="/ssg/ssg3.png" height="300">
 - Object-C에서 Swift로 프로젝트 리뉴얼 리더로서 설계 및 개발 
 - 다수의 UI 및 기능 개발(쓱닷, 검색, 상품유닛, 채팅) 
 - 다수의 공통 모듈 개발 
 
-### SHOP@쇼핑몰(iOS(Object-C))
+### SHOP@쇼핑몰 - iOS(Object-C)
 <img alt="이미지" src="/ssg/shap1.png" height="300"> <img alt="이미지" src="/ssg/shap2.png" height="300"> <img alt="이미지" src="/ssg/shap3.png" height="300">
 - 프로젝트 전체 설계 및 개발
 
-### Qiqip(andriod(Java))
+### Qiqip - andriod(Java)
 <img alt="이미지" src="/Qiqip/Qiqip1.jpg" height="300"> <img alt="이미지" src="/Qiqip/Qiqip2.jpg" height="300"> <img alt="이미지" src="/Qiqip/Qiqip3.jpg" height="300"> <img alt="이미지" src="/Qiqip/Qiqip4.jpg" height="300"> <img alt="이미지" src="/Qiqip/Qiqip5.jpg" height="300">
 - Call log 관리, 주소록 관리, 채팅 메신져, 검색서비스
 - 전체 DB및 구조 설계, 주소록 관리, 디바이스 – 서버 데이타 Sync
 
-
-
+### 삼성 ChatON - iOS(Object-C)
+<img alt="이미지" src="/ChatON/ChatON1.png" height="300"> <img alt="이미지" src="/ChatON/ChatON2.png" height="300">
+- 채팅 메신져, 소셜네트워킹
+- 카카오 스토리 같은 소셜네트워킹 부분 신규 기능 추가 및 유지보수
 
 
 
