@@ -187,6 +187,15 @@
 - Phone Book, Schedule, SMS 통합된 Manager Application
 
 
+### TBS DMB PAD SERVER `Window(Delphi, Oracle)`
+<img alt="이미지" src="/tbs/tbs.jpg" height="300">
 
+- 서울시에 있는 교통CCTV의 영상을 초단위 스샷으로 DMB 단말로 문자와 이미지를 DMB 교통방송시 DMB단말기로 보내주고 관리하는 서버프로그램
+- 해리츠 장비 원격제어 및 송출 관리 서버 Application 개발
 
+### TU미디어 인터넷 인코더 `Window(Delphi)`
+<img alt="이미지" src="/tu/tu1.png" height="300"> <img alt="이미지" src="/tu/tu2.png" height="150">
+
+- VCR를 원격제어하여 원하는 시간부터 시간까지를 자동으로 인코딩해주는 프로그램
+- Window Media Encoder 와 VCR 원격제어 Application 개발
 
