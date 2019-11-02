@@ -26,12 +26,12 @@
 - WoodWick 광고iPhone 개발 
 
 ### 주식회사솔루터스 (2014.03  2014.11)    
-- ***iOS(Object-C), andriod(Java)***
+* ***iOS(Object-C), andriod(Java)***
 - 삼성 ChatON (iPhone 개발) - 카카오 스토리 같은 소셜네트워킹 부분 신규 기능 추가 및 유지보수
 - Qiqip (안드로이드 개발) - 전체 DB및 구조 설계, 주소록 관리, 디바이스 ? 서버 데이타 Sync
 
 ### (주)주식회사소프트트레인 (2012.05 ~ 2014.03)  
-- ***iOS(Object-C)***
+* ***iOS(Object-C)***
 - 잡앤알기업용 iPhone 개발
 - 잡앤알 개인용 iPhone 개발
 - mHidoc 개발 iPhone 개발
@@ -42,7 +42,7 @@
 - 신세계 기프트 iPhone 개발 
 
 ### (주)스페이스링크 (2010.08 ~ 2011.09.10) 
-- ***Windows(Delphi), iOS(Object-C)***
+* ***Windows(Delphi), iOS(Object-C)***
 - CMS 개발 및 유지보수(Delphi)
 - 극동기상연구소 미어캣 드라이버개발 및 추가기능개발(Delphi)
 - 위성장비 RS232드라이버개발 및 추가기능개발
@@ -51,7 +51,7 @@
 - * Battery Restoring System UI개발(Android)
 
 ### (주)모빌탑(필러지시스템) (2007.11 ~ 2010.02)  
-- ***Windows(Delphi)***
+* ***Windows(Delphi)***
 - LG텔레콤 MusicOn & Mobile Manager1 개발 및 운영(Delphi)
 - LG텔레콤 MusicOn & Mobile Manager2 개발 및 운영(Delphi)
 - UI, PIMS, DRM, 통신프레임워크 개발
@@ -62,7 +62,7 @@
 
 
 ### (주)네오미디어 (2006.08 ~ 2007.07)  
-- ***Windows(Delphi, C++, Oracle)***
+* ***Windows(Delphi, C++, Oracle)***
 - 교통방송 TBS DMB PAD SERVER 개발(Delphi)
 - KBS 오디오 제작 솔루션(DMB버젼) 스케줄러 개발(Delphi)
 - TU미디어 인터넷 인코더 개발(Delphi)
