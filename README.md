@@ -188,7 +188,7 @@
 
 
 ### TBS DMB PAD SERVER `Window(Delphi, Oracle)`
-<img alt="이미지" src="/tbs/tbs.jpg" height="300">
+<img alt="이미지" src="/tbs/tbs.png" height="300">
 
 - 서울시에 있는 교통CCTV의 영상을 초단위 스샷으로 DMB 단말로 문자와 이미지를 DMB 교통방송시 DMB단말기로 보내주고 관리하는 서버프로그램
 - 해리츠 장비 원격제어 및 송출 관리 서버 Application 개발
