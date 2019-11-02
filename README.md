@@ -105,3 +105,7 @@
 - PC용 이마트 쇼핑몰을 iPad에서도 똑같이 사용할 수 있도록 해주는쇼핑앱
 - 프로젝트 전체 설계 및 개발
 
+## 누가와 `iOS(Object-C)`
+<img alt="이미지" src="/nugawa/nugawa1.jpg" height="300"> <img alt="이미지" src="/nugawa/nugawa2.jpg" height="300"> <img alt="이미지" src="/nugawa/nugawa3.jpg" height="300"> <img alt="이미지" src="/nugawa/nugawa4.jpg" height="300">
+- 온/오프라인 모임과 행사를 좀 더 쉽게 진행 할 수 있도록 해주는 앱(지금의 밴드와 비슷한앱)
+- 프로젝트 전체 설계 및 개발
