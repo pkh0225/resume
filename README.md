@@ -180,7 +180,7 @@
 - SMS Application 개발
 
 ### MusicOn & Mobile Manager1 `Window(Delphi)`
-<img alt="이미지" src="/MusicOn2/MusicOn21.jpg" height="300"> <img alt="이미지" src="/MusicOn2/MusicOn22.jpg" height="300">
+<img alt="이미지" src="/MusicOn/MusicOn1.jpg" height="300"> <img alt="이미지" src="/MusicOn/MusicOn2.jpg" height="300">
 
 - MusicOn & Mobile Manager1의 차기 버전
 - 현 iTunes와 비슷한 프로그램
