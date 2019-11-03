@@ -37,7 +37,7 @@
 - 누가와 iPhone 개발
 - 신세계 기프트 iPhone 개발 
 
-### (주)스페이스링크 (2010.08 ~ 2011.09.10) `Windows(Delphi), iOS(Object-C)`
+### (주)스페이스링크 (2010.08 ~ 2011.09) `Windows(Delphi), iOS(Object-C)`
 - CMS 개발 및 유지보수(Delphi)
 - 극동기상연구소 미어캣 드라이버개발 및 추가기능개발(Delphi)
 - 위성장비 RS232드라이버개발 및 추가기능개발
