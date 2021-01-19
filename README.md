@@ -14,7 +14,7 @@
 # 경력
 ### 신세계(SSG.COM) (2015.04 ~ 재직중) `iOS(Object-C, Swift)`
 - SSG, 이마트, 신세계, 샤벳 쇼핑몰앱 운영 및 개발 
-- 쇼핑몰 앱 OBject-C 에서 Swift로 전환시 설계 및 핵심 코어 모듈 개발  
+- 쇼핑몰 앱 Object-C 에서 Swift로 전환 설계 및 핵심 코어 모듈 개발  
 
 ### 프리랜서 ***iOS(Object-C, Swift)***
 - CJ CGV 영화앱 iPhone 개발 
