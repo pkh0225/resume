@@ -11,7 +11,7 @@
 * 순천대학교 생물학과/컴퓨터과학(복수전공) 졸업 (1998.03-2005.02)
 * 한영고등학교 졸업 (1998.03)
 
-# TMDesion Site에 9번에 제가 직접 만든 Easy AutoLayout - UIView Extension 소개됨
+# TMDesion Site 아래링크 9번에 제가 직접 만든 Easy AutoLayout - UIView Extension 소개됨
 https://medium.com/theymakedesign/hot-ui-libraries-from-app-developers-4-e04e5e409d45
 
 # 경력
