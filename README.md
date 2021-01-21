@@ -11,6 +11,9 @@
 * 순천대학교 생물학과/컴퓨터과학(복수전공) 졸업 (1998.03-2005.02)
 * 한영고등학교 졸업 (1998.03)
 
+TMDesion Site에 제가 직접 만든 Easy AutoLayout - UIView Extension 
+https://medium.com/theymakedesign/hot-ui-libraries-from-app-developers-4-e04e5e409d45
+
 # 경력
 ### 신세계(SSG.COM) (2015.04 ~ 재직중) `iOS(Object-C, Swift)`
 - SSG, 이마트, 신세계, 샤벳 쇼핑몰앱 운영 및 개발 
