@@ -6,15 +6,25 @@
 * Email : pkh0225@gmail.com
 * Github : https://github.com/pkh0225
 * MS-Word 문서 [다운로드](https://github.com/pkh0225/resume/blob/master/%EB%B0%95%EA%B8%B8%ED%98%B8(iPhone)_%EC%9D%B4%EB%A0%A5%EC%84%9C.doc)
-* PDF 문서 [다운로드](https://github.com/pkh0225/resume/blob/master/%EB%B0%95%EA%B8%B8%ED%98%B8(iPhone)_%EC%9D%B4%EB%A0%A5%EC%84%9C.pdf)
 
 # 학력
 * 순천대학교 생물학과/컴퓨터과학(복수전공) 졸업 (1998.03-2005.02)
 * 한영고등학교 졸업 (1998.03)
 
+# TMDesion Site 아래링크 9번에 제가 직접 만든 Easy AutoLayout - UIView Extension 소개됨
+https://medium.com/theymakedesign/hot-ui-libraries-from-app-developers-4-e04e5e409d45
+
 # 경력
 ### 신세계(SSG.COM) (2015.04 ~ 재직중) `iOS(Object-C, Swift)`
-- SSG, 이마트, 신세계, 샤벳 쇼핑몰앱 운영 및 개발 
+* SSG, 이미트, 신세계 쇼핑몰앱 운영 및 개발
+- 기존Object-C에서 Swift로 프로젝트 리뉴얼 리더로서 설계 및 개발 
+- 검색 및 채팅 개발
+- 공통 모듈 개발(CollectionViewAdapter, Easy AutoLayout, DeintManager, LinkManager, JsonParser, JsonToClass, PushAnimation, GridView, DebugViewer, NavigationRouter 등…)
+- 쓱닷 UI 개발(현재 네이버하단의 동그란버튼 누르면 나오는 화면과 비슷한 UI)
+- 모듈매장 개발 및 다수의 몰들 매장
+* 샤벳 쇼핑몰앱 운영 및 개발
+- 전체 개발
+  
 
 ### 프리랜서 ***iOS(Object-C, Swift)***
 - CJ CGV 영화앱 iPhone 개발 
@@ -38,7 +48,7 @@
 - 누가와 iPhone 개발
 - 신세계 기프트 iPhone 개발 
 
-### (주)스페이스링크 (2010.08 ~ 2011.09.10) `Windows(Delphi), iOS(Object-C)`
+### (주)스페이스링크 (2010.08 ~ 2011.09) `Windows(Delphi), iOS(Object-C)`
 - CMS 개발 및 유지보수(Delphi)
 - 극동기상연구소 미어캣 드라이버개발 및 추가기능개발(Delphi)
 - 위성장비 RS232드라이버개발 및 추가기능개발
@@ -61,11 +71,12 @@
 
 # * 주요 프로젝트 상세 *
 ### SSG 쇼핑몰 `iOS(Object-C, Swift)`
-<img alt="이미지" src="/images/ssg/ssg1.png" height="300"> <img alt="이미지" src="/images/ssg/ssg2.png" height="300"> <img alt="이미지" src="/images/ssg/ssg3.png" height="300"> <img alt="이미지" src="/images/ssg/ssg4.png" height="300"> <img alt="이미지" src="/images/ssg/ssg5.png" height="300">
-<img alt="이미지" src="/images/ssg/ssg6.png" height="300"> <img alt="이미지" src="/images/ssg/ssg7.png" height="300"> <img alt="이미지" src="/images/ssg/ssg8.png" height="300"> <img alt="이미지" src="/images/ssg/ssg9.png" height="300"> <img alt="이미지" src="/images/ssg/ssg10.png" height="300">
-- Object-C에서 Swift로 프로젝트 리뉴얼 리더로서 설계 및 개발 
-- 다수의 UI 및 기능 개발(쓱닷, 검색, 상품유닛, 채팅) 
-- 다수의 공통 모듈 개발 
+<img alt="이미지" src="/images/ssg/ssg1.png" height="300"> <img alt="이미지" src="/images/ssg/ssg2.png" height="300"> <img alt="이미지" src="/images/ssg/ssg3.png" height="300">
+- 기존Object-C에서 Swift로 프로젝트 리뉴얼 리더로서 설계 및 개발 
+- 검색 및 채팅 개발
+- 공통 모듈 개발(CollectionViewAdapter, Easy AutoLayout, DeintManager, LinkManager, JsonParser, JsonToClass, PushAnimation, GridView, DebugViewer, NavigationRouter 등…)
+- 쓱닷 UI 개발(현재 네이버하단의 동그란버튼 누르면 나오는 화면과 비슷한 UI)
+- 모듈매장 개발 및 다수의 몰들 매장 
 
 ### SHOP@쇼핑몰 `iOS(Object-C)`
 <img alt="이미지" src="/images/ssg/shap1.png" height="300"> <img alt="이미지" src="/images/ssg/shap2.png" height="300"> <img alt="이미지" src="/images/ssg/shap3.png" height="300">
