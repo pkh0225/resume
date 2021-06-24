@@ -19,7 +19,17 @@ https://medium.com/theymakedesign/hot-ui-libraries-from-app-developers-4-e04e5e4
 * SSG, 이미트, 신세계 쇼핑몰앱 운영 및 개발
 - 기존Object-C에서 Swift로 프로젝트 리뉴얼 리더로서 설계 및 개발 
 - 검색 및 채팅 개발
-- 공통 모듈 개발(CollectionViewAdapter, Easy AutoLayout, DeintManager, LinkManager, JsonParser, JsonToClass, PushAnimation, GridView, DebugViewer, NavigationRouter 등…)
+- 공통 모듈 개발
+  1. CollectionViewAdapter - CollectionView Delegate를 사용하지 않고 CollectionView를 편히 사용할수 있는 기능
+  2. Easy AutoLayout - AutoLayout 을 xib에서 변수를 만들지 않고 사용할 수 있도록 해주는 기능
+  3. DeintManager - 모든 푸시&팝 이벤트에 대해 직관적으로 메모리 해제를 확인할수 있음
+  4. LinkManager - 딥링크 처리를 관리하는 기능
+  5. JsonParser - json 을 데이타 객체에 맵핑해주는 기능
+  6. JsonToClass - json을 가지고 클래스 파일자체를 만들어주는 기능
+  7. PushAnimation - Navigation push, pop 애니메이션을 편하게 커스텀 할수 있게 해주는 기능
+  8. GridView - 가로, 세로 컬럼을 진 grid 기능을 제공
+  9. DebugViewer - 화면에 그려진 유닛의 json 데이타를 뷰어 및 수정기능
+  10. NavigationRouter - Navigation에 viewController를 push 해주는 기능 
 - 쓱닷 UI 개발(현재 네이버하단의 동그란버튼 누르면 나오는 화면과 비슷한 UI)
 - 모듈매장 개발 및 다수의 몰들 매장
 * 샤벳 쇼핑몰앱 운영 및 개발
@@ -71,7 +81,8 @@ https://medium.com/theymakedesign/hot-ui-libraries-from-app-developers-4-e04e5e4
 
 # * 주요 프로젝트 상세 *
 ### SSG 쇼핑몰 `iOS(Object-C, Swift)`
-<img alt="이미지" src="/images/ssg/ssg1.png" height="300"> <img alt="이미지" src="/images/ssg/ssg2.png" height="300"> <img alt="이미지" src="/images/ssg/ssg3.png" height="300">
+<img alt="이미지" src="/images/ssg/ssg1.png" height="300"> <img alt="이미지" src="/images/ssg/ssg2.png" height="300"> <img alt="이미지" src="/images/ssg/ssg3.png" height="300"> <img alt="이미지" src="/images/ssg/ssg4.png" height="300"> <img alt="이미지" src="/images/ssg/ssg5.png" height="300">
+<img alt="이미지" src="/images/ssg/ssg6.png" height="300"> <img alt="이미지" src="/images/ssg/ssg7.png" height="300"> <img alt="이미지" src="/images/ssg/ssg8.png" height="300"> <img alt="이미지" src="/images/ssg/ssg9.png" height="300"> <img alt="이미지" src="/images/ssg/ssg10.png" height="300">
 - 기존Object-C에서 Swift로 프로젝트 리뉴얼 리더로서 설계 및 개발 
 - 검색 및 채팅 개발
 - 공통 모듈 개발(CollectionViewAdapter, Easy AutoLayout, DeintManager, LinkManager, JsonParser, JsonToClass, PushAnimation, GridView, DebugViewer, NavigationRouter 등…)
