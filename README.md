@@ -6,6 +6,7 @@
 * Email : pkh0225@gmail.com
 * Github : https://github.com/pkh0225
 * MS-Word 문서 [다운로드](https://github.com/pkh0225/resume/blob/master/%EB%B0%95%EA%B8%B8%ED%98%B8(iPhone)_%EC%9D%B4%EB%A0%A5%EC%84%9C.doc)
+* PDF 문서 [다운로드](https://github.com/pkh0225/resume/blob/master/%EB%B0%95%EA%B8%B8%ED%98%B8(iPhone)_%EC%9D%B4%EB%A0%A5%EC%84%9C.pdf)
 
 # 학력
 * 순천대학교 생물학과/컴퓨터과학(복수전공) 졸업 (1998.03-2005.02)
@@ -60,7 +61,8 @@
 
 # * 주요 프로젝트 상세 *
 ### SSG 쇼핑몰 `iOS(Object-C, Swift)`
-<img alt="이미지" src="/images/ssg/ssg1.png" height="300"> <img alt="이미지" src="/images/ssg/ssg2.png" height="300"> <img alt="이미지" src="/images/ssg/ssg3.png" height="300">
+<img alt="이미지" src="/images/ssg/ssg1.png" height="300"> <img alt="이미지" src="/images/ssg/ssg2.png" height="300"> <img alt="이미지" src="/images/ssg/ssg3.png" height="300"> <img alt="이미지" src="/images/ssg/ssg4.png" height="300"> <img alt="이미지" src="/images/ssg/ssg5.png" height="300">
+<img alt="이미지" src="/images/ssg/ssg6.png" height="300"> <img alt="이미지" src="/images/ssg/ssg7.png" height="300"> <img alt="이미지" src="/images/ssg/ssg8.png" height="300"> <img alt="이미지" src="/images/ssg/ssg9.png" height="300"> <img alt="이미지" src="/images/ssg/ssg10.png" height="300">
 - Object-C에서 Swift로 프로젝트 리뉴얼 리더로서 설계 및 개발 
 - 다수의 UI 및 기능 개발(쓱닷, 검색, 상품유닛, 채팅) 
 - 다수의 공통 모듈 개발 
