@@ -16,8 +16,15 @@ https://medium.com/theymakedesign/hot-ui-libraries-from-app-developers-4-e04e5e4
 
 # 경력
 ### 신세계(SSG.COM) (2015.04 ~ 재직중) `iOS(Object-C, Swift)`
-- SSG, 이마트, 신세계, 샤벳 쇼핑몰앱 운영 및 개발 
-- 쇼핑몰 앱 Object-C 에서 Swift로 전환 설계 및 핵심 코어 모듈 개발  
+* SSG, 이미트, 신세계 쇼핑몰앱 운영 및 개발
+- 기존Object-C에서 Swift로 프로젝트 리뉴얼 리더로서 설계 및 개발 
+- 검색 및 채팅 개발
+- 공통 모듈 개발(CollectionViewAdapter, Easy AutoLayout, DeintManager, LinkManager, JsonParser, JsonToClass, PushAnimation, GridView, DebugViewer, NavigationRouter 등…)
+- 쓱닷 UI 개발(현재 네이버하단의 동그란버튼 누르면 나오는 화면과 비슷한 UI)
+- 모듈매장 개발 및 다수의 몰들 매장
+* 샤벳 쇼핑몰앱 운영 및 개발
+- 전체 개발
+  
 
 ### 프리랜서 ***iOS(Object-C, Swift)***
 - CJ CGV 영화앱 iPhone 개발 
@@ -65,9 +72,11 @@ https://medium.com/theymakedesign/hot-ui-libraries-from-app-developers-4-e04e5e4
 # * 주요 프로젝트 상세 *
 ### SSG 쇼핑몰 `iOS(Object-C, Swift)`
 <img alt="이미지" src="/images/ssg/ssg1.png" height="300"> <img alt="이미지" src="/images/ssg/ssg2.png" height="300"> <img alt="이미지" src="/images/ssg/ssg3.png" height="300">
-- Object-C에서 Swift로 프로젝트 리뉴얼 리더로서 설계 및 개발 
-- 다수의 UI 및 기능 개발(쓱닷, 검색, 상품유닛, 채팅) 
-- 다수의 공통 모듈 개발 
+- 기존Object-C에서 Swift로 프로젝트 리뉴얼 리더로서 설계 및 개발 
+- 검색 및 채팅 개발
+- 공통 모듈 개발(CollectionViewAdapter, Easy AutoLayout, DeintManager, LinkManager, JsonParser, JsonToClass, PushAnimation, GridView, DebugViewer, NavigationRouter 등…)
+- 쓱닷 UI 개발(현재 네이버하단의 동그란버튼 누르면 나오는 화면과 비슷한 UI)
+- 모듈매장 개발 및 다수의 몰들 매장 
 
 ### SHOP@쇼핑몰 `iOS(Object-C)`
 <img alt="이미지" src="/images/ssg/shap1.png" height="300"> <img alt="이미지" src="/images/ssg/shap2.png" height="300"> <img alt="이미지" src="/images/ssg/shap3.png" height="300">
