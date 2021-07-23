@@ -7,7 +7,7 @@
 * Github : https://github.com/pkh0225
 * MS-Word 문서 [다운로드](https://github.com/pkh0225/resume/blob/master/%EB%B0%95%EA%B8%B8%ED%98%B8(iPhone)_%EC%9D%B4%EB%A0%A5%EC%84%9C.doc)
 * PDF 문서 [다운로드](https://github.com/pkh0225/resume/blob/master/%EB%B0%95%EA%B8%B8%ED%98%B8(iPhone)_%EC%9D%B4%EB%A0%A5%EC%84%9C.pdf)
-* PDF 문서 [다운로드]<a href="https://github.com/pkh0225/resume/blob/master/%EB%B0%95%EA%B8%B8%ED%98%B8(iPhone)_%EC%9D%B4%EB%A0%A5%EC%84%9C.pdf" download="https://github.com/pkh0225/resume/blob/master/%EB%B0%95%EA%B8%B8%ED%98%B8(iPhone)_%EC%9D%B4%EB%A0%A5%EC%84%9C.pdf">download this</a>
+* PDF 문서 [다운로드]<a href="https://github.com/pkh0225/resume/blob/master/%EB%B0%95%EA%B8%B8%ED%98%B8(iPhone)_%EC%9D%B4%EB%A0%A5%EC%84%9C.pdf" download="박길호(iPhone)_이력서.pdf">click here</a>
 
 # 학력
 * 순천대학교 생물학과/컴퓨터과학(복수전공) 졸업 (1998.03-2005.02)
