@@ -7,7 +7,6 @@
 * Github : https://github.com/pkh0225
 * MS-Word 문서 [다운로드](https://github.com/pkh0225/resume/blob/master/%EB%B0%95%EA%B8%B8%ED%98%B8(iPhone)_%EC%9D%B4%EB%A0%A5%EC%84%9C.doc)
 * PDF 문서 [다운로드](https://github.com/pkh0225/resume/blob/master/%EB%B0%95%EA%B8%B8%ED%98%B8(iPhone)_%EC%9D%B4%EB%A0%A5%EC%84%9C.pdf)
-* PDF 문서 [다운로드]<a href="https://github.com/pkh0225/resume/blob/master/%EB%B0%95%EA%B8%B8%ED%98%B8(iPhone)_%EC%9D%B4%EB%A0%A5%EC%84%9C.pdf" download="박길호(iPhone)_이력서.pdf">click here</a>
 
 # 학력
 * 순천대학교 생물학과/컴퓨터과학(복수전공) 졸업 (1998.03-2005.02)
@@ -25,7 +24,7 @@ https://medium.com/theymakedesign/hot-ui-libraries-from-app-developers-4-e04e5e4
   1. CollectionViewAdapter - CollectionView Delegate를 사용하지 않고 CollectionView를 편히 사용할수 있는 기능
   2. Easy AutoLayout - AutoLayout 을 xib에서 변수를 만들지 않고 사용할 수 있도록 해주는 기능
   3. DeintManager - 모든 푸시&팝 이벤트에 대해 직관적으로 메모리 해제를 확인할수 있음
-  4. LinkManager - 딥링크 처리를 관리하는 기능
+  4. LinkManager - 딥링크 처리를 관리하는 기
   5. JsonParser - json 을 데이타 객체에 맵핑해주는 기능
   6. JsonToClass - json을 가지고 클래스 파일자체를 만들어주는 기능
   7. PushAnimation - Navigation push, pop 애니메이션을 편하게 커스텀 할수 있게 해주는 기능
