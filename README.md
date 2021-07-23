@@ -2,7 +2,7 @@
 
 <img alt="깃헙 프로필 사진" src="%EB%82%B4%EC%82%AC%EC%A7%84.jpg" width="200">
 
-* 박길호
+** 박길호
 * Email : pkh0225@gmail.com
 * Github : https://github.com/pkh0225
 * MS-Word 문서 --> [[클릭시_다운로드됨]](https://github.com/pkh0225/resume/raw/master/pkh0225_readme.doc)
