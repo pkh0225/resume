@@ -18,6 +18,10 @@ https://medium.com/theymakedesign/hot-ui-libraries-from-app-developers-4-e04e5e4
 # 개발언어 및 툴
  - Swift(XCode), Object-C(XCode), Java(Eclipes), Pascal(Delphi), C++(Visual Studio), Oracle
 
+# 업무적 강점
+ - 개발을 위한 개발이 아닌 서비스를 고민하여 설계하는 프론트엔드 개발자 
+ - 복잡하고 거대한 서비스의 설계, 개발, 운영까지 담당하는 총괄 경험
+
 # 경력
 ### 신세계(SSG.COM) (2015.04 ~ 재직중) `iOS(Object-C, Swift)`
 * SSG, 이미트, 신세계 쇼핑몰앱 운영 및 개발
