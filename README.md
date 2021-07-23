@@ -5,7 +5,7 @@
 * 박길호
 * Email : pkh0225@gmail.com
 * Github : https://github.com/pkh0225
-* MS-Word 문서 [다운로드](https://github.com/pkh0225/resume/blob/master/pkh0225_readme.doc)
+* MS-Word 문서 [다운로드](https://github.com/pkh0225/resume/raw/master/pkh0225_readme.doc)
 * PDF 문서 [다운로드](https://github.com/pkh0225/resume/raw/master/pkh0225_readme.pdf)
 
 # 학력
