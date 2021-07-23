@@ -19,7 +19,9 @@ https://medium.com/theymakedesign/hot-ui-libraries-from-app-developers-4-e04e5e4
  - Swift(XCode), Object-C(XCode), Java(Eclipes), Pascal(Delphi), C++(Visual Studio), Oracle
 
 # 업무적 강점
- - 개발을 위한 개발이 아닌 서비스를 고민하여 설계하는 프론트엔드 개발자 
+ - IOS 개발관련 거의 모든 경험을 통해 신규서비스 또는 재개발 능력 보유
+ - 개발을 위한 개발이 아닌, 서비스를 고민하여 설계하는 개발자
+ - 직책에 연연하지 않고 상사나 부하 동료 직원과의 업무 지향적 협업 태도
  - 복잡하고 거대한 서비스의 설계, 개발, 운영까지 담당하는 총괄 경험
 
 # 경력
