@@ -57,10 +57,12 @@ https://medium.com/theymakedesign/hot-ui-libraries-from-app-developers-4-e04e5e4
 - WoodWick 광고iPhone 개발 
 
 ### 주식회사솔루터스 (2014.03  2014.11) `iOS(Object-C), andriod(Java)`
+###### 퇴사사유 : 임금체불
 - 삼성 ChatON (iPhone 개발)
 - Qiqip (안드로이드 개발)
 
 ### (주)주식회사소프트트레인 (2012.05 ~ 2014.03) `iOS(Object-C)`
+###### 퇴사사유 : 임금체불
 - 잡앤알기업용 iPhone 개발
 - 잡앤알 개인용 iPhone 개발
 - mHidoc 개발 iPhone 개발
@@ -71,6 +73,7 @@ https://medium.com/theymakedesign/hot-ui-libraries-from-app-developers-4-e04e5e4
 - 신세계 기프트 iPhone 개발 
 
 ### (주)스페이스링크 (2010.08 ~ 2011.09) `Windows(Delphi), iOS(Object-C)`
+###### 퇴사사유 : 전문적인 iPhone 개발을 위해
 - CMS 개발 및 유지보수(Delphi)
 - 극동기상연구소 미어캣 드라이버개발 및 추가기능개발(Delphi)
 - 위성장비 RS232드라이버개발 및 추가기능개발
@@ -79,10 +82,12 @@ https://medium.com/theymakedesign/hot-ui-libraries-from-app-developers-4-e04e5e4
 - Battery Restoring System UI개발(Android)
 
 ### (주)모빌탑(필러지시스템) (2007.11 ~ 2010.02)  `Windows(Delphi)`
+###### 퇴사사유 : 임금체불
 - LG텔레콤 MusicOn & Mobile Manager1 개발 및 운영(Delphi)
 - LG텔레콤 MusicOn & Mobile Manager2 개발 및 운영(Delphi)
 
-### (주)네오미디어 (2006.08 ~ 2007.07)  `Windows(Delphi, C++, Oracle)`  *퇴사사유:임금체불*
+### (주)네오미디어 (2006.08 ~ 2007.07)  `Windows(Delphi, C++, Oracle)`  
+###### 퇴사사유 : 임금체불
 - 교통방송 TBS DMB PAD SERVER 개발(Delphi)
 - KBS 오디오 제작 솔루션(DMB버젼) 스케줄러 개발(Delphi)
 - TU미디어 인터넷 인코더 개발(Delphi)
