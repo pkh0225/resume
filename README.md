@@ -82,7 +82,7 @@ https://medium.com/theymakedesign/hot-ui-libraries-from-app-developers-4-e04e5e4
 - LG텔레콤 MusicOn & Mobile Manager1 개발 및 운영(Delphi)
 - LG텔레콤 MusicOn & Mobile Manager2 개발 및 운영(Delphi)
 
-### (주)네오미디어 (2006.08 ~ 2007.07)  `Windows(Delphi, C++, Oracle)`  #### 임금체불로 퇴사
+### (주)네오미디어 (2006.08 ~ 2007.07)  `Windows(Delphi, C++, Oracle)`  *퇴사사유:임금체불*
 - 교통방송 TBS DMB PAD SERVER 개발(Delphi)
 - KBS 오디오 제작 솔루션(DMB버젼) 스케줄러 개발(Delphi)
 - TU미디어 인터넷 인코더 개발(Delphi)
