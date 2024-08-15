@@ -42,6 +42,7 @@ https://medium.com/theymakedesign/hot-ui-libraries-from-app-developers-4-e04e5e4
   9. DebugViewer - 화면에 그려진 유닛의 json 데이타를 뷰어 및 수정기능
   10. NavigationRouter - Navigation에 viewController를 push 및 관리 해주는 기능
   11. fromXib - Xib 로드 및 캐쉬 기능 제공
+  12. 개발자 메뉴(API/image Tracking, UI Rect 보기, Log Data보기 등...)  
 - 쓱닷 UI 개발(현재 네이버하단의 동그란버튼 누르면 나오는 화면과 비슷한 UI)
 - 모듈매장 개발 및 다수의 몰들 매장
 * 샤벳 쇼핑몰앱 운영 및 개발
