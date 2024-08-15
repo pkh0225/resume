@@ -250,5 +250,5 @@ https://medium.com/theymakedesign/hot-ui-libraries-from-app-developers-4-e04e5e4
 ### 홈쇼핑 모니터링 시스템 개발 `Window(Delphi, Oracle)`
 <img alt="이미지" src="/images/daso/daso1.png" height="300"> <img alt="이미지" src="/images/daso/daso2.png" height="300">
 
-- 홈쇼핑 3사에 제공된 홈쇼핑용 오디오 솔루션을 유지보수
-- 홈쇼핑 3개사 모두 유지보수와 신규기능 추가건 모두 담당
+- 홈쇼핑 3사(현대,GS,CJ)에 제공된 홈쇼핑용 오디오 솔루션을 유지보수
+- 홈쇼핑 3개(현대,GS,CJ)사 모두 유지보수와 신규기능 추가건 모두 담당
